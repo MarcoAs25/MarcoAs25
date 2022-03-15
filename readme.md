@@ -5,7 +5,7 @@
 
 ## About me:
 - Meu nome é Marco Antônio, tenho 22 anos
-- Sou de Bmabuí-MG
+- Sou de Bambuí-MG
 - Graduando em Engenharia de Computação
 - Àreas de estudo: desenvolvimento web, mobile, jogos e tecnologias assistivas
 <hr>
