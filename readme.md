@@ -25,3 +25,4 @@
 [<img alt="Instagram" src="https://img.shields.io/badge/marcoa25%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/marco.a25/)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:marcoas2566@gmail.com)
 
+![Snake animation](https://github.com/rafaballerini/MarcoAs25/blob/output/github-contribution-grid-snake.svg)
