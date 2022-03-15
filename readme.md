@@ -4,7 +4,7 @@
   
 
 ## About me:
-- Meu nome é Marco Antônio, tenho 25 anos
+- Meu nome é Marco Antônio, tenho 22 anos
 - Sou de Bmabuí-MG
 - Graduando em Engenharia de Computação
 - Àreas de estudo: desenvolvimento web, mobile, jogos e tecnologias assistivas
