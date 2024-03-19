@@ -1,15 +1,26 @@
 <h1 align="center">
    Bem vindo ao meu GitHub!🚀
-</h1>
-  
+</h1>  
 
-## About me:
-- Meu nome é Marco Antônio, tenho 24 anos
-- Sou de Bambuí-MG
-- Graduando em Engenharia de Computação
-- Àreas de estudo: desenvolvimento web (AngularJs, Spring boot, Java 11), Desenvolvimento de jogos(Unity, C#, Photon)
+<h2 align="center">Sobre mim</h2>
 
-### ✨ Entre em contato! ✨
-[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/marc025/)
-[<img alt="Instagram" src="https://img.shields.io/badge/marcoa25%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/marco.a25/)
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:marcoas2566@gmail.com)
+
+<div align="center">
+   <p>Olá, eu sou Marco Antônio, tenho 24 anos e sou do interior de minas. 🧀☕</p>
+   <p>Atualmente estou finalizando meu curso em Engenharia de Computação e buscando constantemente aprimorar meus conhecimentos. Minhas paixões acadêmicas residem principalmente no desenvolvimento web, IOT e na criação de jogos, áreas que me fascinam e motivam a cada dia.</p>
+</div>
+
+<h2 align="center">Skills</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,spring,java,git,html,css,js,unity,cs,arduino,cpp" />
+  </a>
+</p>
+
+<h2 align="center">✨Entre em contato!✨</h2>
+<pre>
+<p align="center">
+   <a href="mailto:marcoas2566@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>   <a href="https://www.instagram.com/marco.a25/"><img src="https://skillicons.dev/icons?i=instagram" /></a>   <a href="https://www.linkedin.com/in/marc025/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+</p>
+</pre>
